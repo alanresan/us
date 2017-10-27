@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://alanresan.github.io/us/sitemap.xml
